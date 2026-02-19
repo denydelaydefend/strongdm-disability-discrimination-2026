@@ -55,6 +55,7 @@ The following timeline is supported by primary source evidence including audio r
 **February 6, 2026** - Callout of Accommodation Violated to Recruiter Lindsey Shanks <br>
 **February 6, 2026** - Callout of Accommodation Violated to VP Alex Pai <br>
 **February 6, 2026** - Follow-up & Close-out with original Recruiter who recommended me for the role Kate Reed <br>
+**February 9, 2026** - Threatening & Dismissive Legal Outreach by StrongDM counsel [Laura Mahoney](https://www.linkedin.com/in/laura-s-mahoney) 
 **February 12, 2026** - Public post documenting discrimination  
 
 **February 13, 2026** - Recruiters disconnect from candidate on LinkedIn  
@@ -64,12 +65,12 @@ The following timeline is supported by primary source evidence including audio r
 
 ## Repository Structure
 
-- **[Chapter 0: Evidence Overview](issues/1)** 🔑 - Key exhibits referenced in public documentation
-- **[Chapter 1: Accommodation Request & Violation](issues/2)** ❌ - The promised vs. actual interview format
-- **[Chapter 2: Unanimous Support Overridden](issues/3)** 👏🏼 - Technical team approval contradicted by single VP
-- **[Chapter 3: Consciousness of Guilt Behaviors](issues/4)** ⛓️‍💥 - Blocking and disconnection timeline
-- **[Chapter 4: Fraudulent DEI Marketing](issues/5)** 🔍 - Claims vs. reality
-- **[Chapter 5: Settlement Refused](issues/6)** 📍 - Private resolution attempt and company response
+- **[Chapter 0: Evidence Overview](https://github.com/denydelaydefend/strongdm-disability-discrimination-2026/issues/1)** 🔑 - Key exhibits referenced in public documentation
+- **Chapter 1: Accommodation Request & Violation** ❌ - The promised vs. actual interview format
+- **Chapter 2: Unanimous Support Overridden** 👏🏼 - Technical team approval contradicted by single VP
+- **Chapter 3: Consciousness of Guilt Behaviors** ⛓️‍💥 - Blocking and disconnection timeline
+- **Chapter 4: Fraudulent DEI Marketing** 🔍 - Claims vs. reality
+- **Chapter 5: Settlement Refused** 📍 - Private resolution attempt and company response
 
 ## Key Issues
 
