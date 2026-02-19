@@ -1,5 +1,29 @@
 # StrongDM Accommodation Violation Case Study (2026)
 
+## 🧐 Critical Context: The Recruitment Timeline
+
+Before examining the evidence, it's essential to understand how deliberate this recruitment process was:
+
+**December 19, 2025**: Candidate applied directly through StrongDM's Applicant Tracking System
+
+**December 23, 2025**: **Automated rejection** sent by ATS
+
+**December 19, 2025**: Candidate separately reached out to Kate Reed, a recruiter she had previously interviewed with in February 2024, requesting internal advocacy
+
+**January 6, 2026**: Despite the ATS rejection, recruiter Lindsay Shanks (the role owner) reached out directly, acknowledging the "disposition email" (rejection) and requesting to move forward with interviews anyway
+
+### Why This Matters
+
+StrongDM did not interview the candidate as a "courtesy." Lindsay Shanks **actively overrode an automated rejection** to bring the candidate into the process. This demonstrates:
+
+1. **Strong initial interest** - Significant enough to override system rejection
+2. **Internal advocacy** - Kate Reed's recommendation carried weight
+3. **Deliberate choice** - This wasn't passive; they actively chose to pursue this candidate
+
+This makes the subsequent accommodation violation and discriminatory rejection **even more egregious**. They went out of their way to recruit a neurodivergent candidate, violated her accommodations, then rejected her despite unanimous technical support.
+
+**You don't recruit someone this actively and then violate their disability accommodations unless bias overrode merit.**
+
 ## Disclaimer ❎
 
 This repository documents a chronological timeline of events experienced during the interview process with [StrongDM](https://www.linkedin.com/company/strongdm/), Inc. (a cybersecurity company being acquired by Delinea). It is presented as a neutral, evidence-based case study for examination by professionals in technology, human resources, legal, and corporate governance. 
